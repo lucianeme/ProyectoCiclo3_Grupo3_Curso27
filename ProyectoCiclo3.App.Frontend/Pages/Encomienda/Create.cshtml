@@ -3,16 +3,37 @@
 }
  
 <div class="text-center">
-<form action="">
-  <label for="descripcion" class="form-label">Descripcion:</label>
-  <input type="text" class="form-control" id="descripcion" name="descripcion" placeholder="Descripcion">
-  <label for="peso" class="form-label">Peso:</label>
-  <input type="number" class="form-control" id="peso" name="peso" placeholder="Peso">
-  <label for="tipo" class="form-label">Tipo:</label>
-  <input type="text" class="form-control" id="tipo" name="tipo" placeholder="Tipo">
-  <label for="presentacion" class="form-label">Presentacion:</label>
-  <input type="text" class="form-control" id="presentacion" name="presentacion" placeholder="Presentacion">
-  <hr>
-  <button type="submit" class="btn btn-success">Enviar</button>
+  <!--<form action="">
+    <label for="descripcion" class="form-label">Descripcion:</label>
+    <input type="text" class="form-control" id="descripcion" name="descripcion" placeholder="Descripcion">
+    <label for="peso" class="form-label">Peso:</label>
+    <input type="number" class="form-control" id="peso" name="peso" placeholder="Peso">
+    <label for="tipo" class="form-label">Tipo:</label>
+    <input type="text" class="form-control" id="tipo" name="tipo" placeholder="Tipo">
+    <label for="presentacion" class="form-label">Presentacion:</label>
+    <input type="text" class="form-control" id="presentacion" name="presentacion" placeholder="Presentacion">
+    <hr>
+    <button type="submit" class="btn btn-success">Enviar</button>
+  </form>-->
+  <form class="row g-3">
+    <div class="col-12">
+      <label for="inputAddress" class="form-label">Descripción</label>
+      <input type="text" class="form-control" id="inputAddress" placeholder="Descripción del Servicio">
+    </div>
+    <div class="col-md-6">
+      <label for="inputPeso" class="form-label">Peso</label>
+      <input type="text" class="form-control" id="inputPeso" placeholder="Kg.">
+    </div>
+    <div class="col-md-6">
+      <label for="inputTipo" class="form-label">Tipo</label>
+      <input type="text" class="form-control" id="inputTipo">
+    </div>
+    <div class="col-md-6">
+      <label for="inputPresentacion" class="form-label">Presentación</label>
+      <input type="text" class="form-control" id="inputPresentacion">
+    </div>
+    <div class="col-12">
+      <button type="submit" class="btn btn-primary">Enviar</button>
+    </div>
   </form>
 </div>
