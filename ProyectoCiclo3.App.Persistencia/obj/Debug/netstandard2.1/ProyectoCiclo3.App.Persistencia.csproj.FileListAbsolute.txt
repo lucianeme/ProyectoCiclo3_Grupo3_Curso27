@@ -9,3 +9,14 @@ D:\Proyecto MISION TIC Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia
 D:\Proyecto MISION TIC Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CopyComplete
 D:\Proyecto MISION TIC Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
 D:\Proyecto MISION TIC Ciclo3\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
+D:\Proyecto Ciclo 3 - Equipo #3\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csprojAssemblyReference.cache
+D:\Proyecto Ciclo 3 - Equipo #3\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.AssemblyInfoInputs.cache
+D:\Proyecto Ciclo 3 - Equipo #3\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.AssemblyInfo.cs
+D:\Proyecto Ciclo 3 - Equipo #3\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
+D:\Proyecto Ciclo 3 - Equipo #3\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
+D:\Proyecto Ciclo 3 - Equipo #3\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.deps.json
+D:\Proyecto Ciclo 3 - Equipo #3\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.dll
+D:\Proyecto Ciclo 3 - Equipo #3\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.pdb
+D:\Proyecto Ciclo 3 - Equipo #3\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.dll
+D:\Proyecto Ciclo 3 - Equipo #3\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Persistencia\bin\Debug\netstandard2.1\ProyectoCiclo3.App.Dominio.pdb
+D:\Proyecto Ciclo 3 - Equipo #3\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.1\ProyectoCiclo3.App.Persistencia.csproj.CopyComplete
