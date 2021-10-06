@@ -13,6 +13,7 @@
       <th scope="col">Direccion</th>
       <th scope="col">Telefono</th>
       <th scope="col">Ciudad</th>
+      <th scope="col">Acciones</th>
     </tr>
   </thead>
     @foreach (var usuario in Model.Usuario)
@@ -27,7 +28,10 @@
             <td>
               <a class="btn btn-info" asp-page="./Details" asp-route-usuarioId="@usuario.id"><i class="fas fa-adjust"></i>Ver</a>
               <a class="btn btn-info" asp-page="./Edit" asp-route-usuarioId="@usuario.id">Editar</a>
-              <a class="btn btn-danger" href="">Eliminar</a>
+              <form method="POST">
+                <input type="number" class="form-control d-none" id="id" name="id" placeholder="id" asp-for="@usuario.id">
+                <button type="submit"class="btn btn-danger" href="">Eliminar</button>
+              </form>
               </td>
         </tr>
     }
