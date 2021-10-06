@@ -13,13 +13,13 @@ namespace ProyectoCiclo3.App.Frontend.Pages
     public class FormUsuarioModel : PageModel
     {
 
-        private readonly RepositorioUsuario repositorioUsuario;
+        private readonly RepositorioUsuario repositorioUsuarios;
         [BindProperty]
         public Usuario Usuario {get;set;}
         
-        public FormUsuarioModel(RepositorioUsuario repositorioUsuario)
+        public FormUsuarioModel(RepositorioUsuario repositorioUsuarios)
         {
-            this.repositorioUsuario=repositorioUsuario;
+            this.repositorioUsuarios=repositorioUsuarios;
         }
 
 
@@ -27,5 +27,16 @@ namespace ProyectoCiclo3.App.Frontend.Pages
         {
             //Comentario Marisel
         }
+
+        public IActionResult OnPost()
+        {
+            if(!ModelState.IsValid)
+            {
+                return Page();
+            }            
+            Usuario = repositorioUsuarios.Create(Usuario);            
+            return RedirectToPage("./List");
+        }
+
     }
 }

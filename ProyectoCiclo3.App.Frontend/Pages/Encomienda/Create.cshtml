@@ -1,38 +1,27 @@
 @page
 @model ProyectoCiclo3.App.Frontend.Pages.FormEncomiendaModel
 @{
+  var encomienda = Model.Encomienda;  
 }
-
  
 <div class="text-center">
-  <!--<form action="">
-    <label for="descripcion" class="form-label">Descripcion:</label>
-    <input type="text" class="form-control" id="descripcion" name="descripcion" placeholder="Descripcion">
-    <label for="peso" class="form-label">Peso:</label>
-    <input type="number" class="form-control" id="peso" name="peso" placeholder="Peso">
-    <label for="tipo" class="form-label">Tipo:</label>
-    <input type="text" class="form-control" id="tipo" name="tipo" placeholder="Tipo">
-    <label for="presentacion" class="form-label">Presentacion:</label>
-    <input type="text" class="form-control" id="presentacion" name="presentacion" placeholder="Presentacion">
-    <hr>
-    <button type="submit" class="btn btn-success">Enviar</button>
-  </form>-->
-  <form class="row g-3">
+  
+  <form class="row g-3" method="POST">
     <div class="col-12">
       <label for="inputAddress" class="form-label">Descripción</label>
-      <input type="text" class="form-control" id="descripcion" name="descripcion" placeholder="Descripción del Servicio">
+      <input type="text" class="form-control" id="descripcion" name="descripcion" placeholder="Descripción del Servicio" asp-for="Encomienda.descripcion">
     </div>
     <div class="col-md-6">
       <label for="inputPeso" class="form-label">Peso</label>
-      <input type="text" class="form-control" id="peso" name="peso" placeholder="Kg.">
+      <input type="text" class="form-control" id="peso" name="peso" placeholder="Kg." asp-for="Encomienda.peso">
     </div>
     <div class="col-md-6">
       <label for="inputTipo" class="form-label">Tipo</label>
-      <input type="text" class="form-control" id="tipo" name="tipo" placeholder="Tipo">
+      <input type="text" class="form-control" id="tipo" name="tipo" placeholder="Tipo" asp-for="Encomienda.tipo">
     </div>
     <div class="col-md-6">
       <label for="inputPresentacion" class="form-label">Presentación</label>
-      <input type="text" class="form-control" id="presentacion" name="presentacion" placeholder="Presentacion">
+      <input type="text" class="form-control" id="presentacion" name="presentacion" placeholder="Presentacion" asp-for="Encomienda.presentacion">
     </div>
     <hr>
     <div class="col-12">

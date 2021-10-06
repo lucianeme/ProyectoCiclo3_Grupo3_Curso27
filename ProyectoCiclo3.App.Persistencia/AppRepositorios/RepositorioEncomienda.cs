@@ -28,6 +28,18 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
             return encomiendas.SingleOrDefault(b => b.id == id);
         }
 
+        public Encomienda Create(Encomienda newEncomienda)
+        {
+            if(encomiendas.Count > 0){
+                newEncomienda.id=encomiendas.Max(r => r.id) +1; 
+            }
+            else{
+                newEncomienda.id = 1; 
+            }
+           encomiendas.Add(newEncomienda);
+           return newEncomienda;
+        }
+
         public Encomienda Update(Encomienda newEncomienda){
             var encomienda= encomiendas.SingleOrDefault(b => b.id == newEncomienda.id);
             if(encomienda != null){
@@ -38,18 +50,6 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
             }
             return encomienda;
         }
-
-        /*public Usuario Create(Usuario newUsuario)
-        {
-            if(usuarios.Count > 0){
-                newUsuario.id=usuarios.Max(r => r.id) +1; 
-            }
-            else{
-                newUsuario.id = 1; 
-            }
-           usuarios.Add(newUsuario);
-           return newUsuario;
-        }*/
 
         public Encomienda Delete(int id)
         {

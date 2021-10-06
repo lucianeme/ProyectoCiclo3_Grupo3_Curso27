@@ -28,6 +28,18 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
             return servicios.SingleOrDefault(b => b.id == id);
         }
 
+        public Servicio Create(Servicio newServicio)
+        {
+            if(servicios.Count > 0){
+                newServicio.id=servicios.Max(r => r.id) +1; 
+            }
+            else{
+                newServicio.id = 1; 
+            }
+           servicios.Add(newServicio);
+           return newServicio;
+        }
+
         public Servicio Update(Servicio newServicio){
             var servicio= servicios.SingleOrDefault(b => b.id == newServicio.id);
             if(servicio != null){
@@ -40,17 +52,7 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
             return servicio;
         }
 
-        /*public Usuario Create(Usuario newUsuario)
-        {
-            if(usuarios.Count > 0){
-                newUsuario.id=usuarios.Max(r => r.id) +1; 
-            }
-            else{
-                newUsuario.id = 1; 
-            }
-           usuarios.Add(newUsuario);
-           return newUsuario;
-        }*/
+        
 
         public Servicio Delete(int id)
         {
