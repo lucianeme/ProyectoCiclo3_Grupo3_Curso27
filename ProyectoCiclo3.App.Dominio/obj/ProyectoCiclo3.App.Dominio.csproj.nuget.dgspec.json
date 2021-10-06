@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyecto Ciclo 3 - Equipo #3\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {}
+    "C:\\platzi\\ProyectoGrupo\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {}
   },
   "projects": {
-    "D:\\Proyecto Ciclo 3 - Equipo #3\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+    "C:\\platzi\\ProyectoGrupo\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyecto Ciclo 3 - Equipo #3\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "projectUniqueName": "C:\\platzi\\ProyectoGrupo\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
         "projectName": "ProyectoCiclo3.App.Dominio",
-        "projectPath": "D:\\Proyecto Ciclo 3 - Equipo #3\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\maris\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyecto Ciclo 3 - Equipo #3\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\obj\\",
+        "projectPath": "C:\\platzi\\ProyectoGrupo\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\AnaLucía\\.nuget\\packages\\",
+        "outputPath": "C:\\platzi\\ProyectoGrupo\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maris\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\AnaLucía\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -53,7 +53,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.118\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
         }
       }
     }

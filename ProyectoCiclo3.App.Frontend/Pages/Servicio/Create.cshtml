@@ -1,6 +1,8 @@
 @page
+@model ProyectoCiclo3.App.Frontend.Pages.FormServicioModel
 @{
 }
+
  
 <div class="text-center">
 <!--<form action="">
@@ -14,7 +16,7 @@
   <button type="submit" class="btn btn-success">Enviar</button>-->
   <form class="row g-3">
     <div class="col-12">
-      <label for="inputId" class="form-label">IDn</label>
+      <label for="inputId" class="form-label">ID</label>
       <input type="text" class="form-control" id="inputId" placeholder="ID de Seguimiento">
     </div>
     <div class="col-md-6">
@@ -37,6 +39,7 @@
       <label for="inputEncomienda" class="form-label">Encomienda</label>
       <input type="text" class="form-control" id="inputEncomienda">
     </div>
+    <hr>
     <div class="col-12">
       <button type="submit" class="btn btn-primary">Enviar</button>
     </div>
