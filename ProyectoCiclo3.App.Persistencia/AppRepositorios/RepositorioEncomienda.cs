@@ -7,11 +7,11 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
 {
     public class RepositorioEncomienda
     {
-        List<Encomienda> encomienda;
+        List<Encomienda> encomiendas;
  
     public RepositorioEncomienda()
         {
-            encomienda= new List<Encomienda>()
+            encomiendas= new List<Encomienda>()
             {
                 new Encomienda{id=1,descripcion="Articulos",peso=10,tipo= "Tipo A",presentacion= "Caja"},
                 new Encomienda{id=2,descripcion="Documentos",peso=1,tipo= "Tipo B",presentacion= "Sobre"},
@@ -21,25 +21,25 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
  
         public IEnumerable<Encomienda> GetAll()
         {
-            return encomienda;
+            return encomiendas;
         }
  
         public Encomienda GetEncomiendaWithId(int id){
-            return encomienda.SingleOrDefault(b => b.id == id);
+            return encomiendas.SingleOrDefault(b => b.id == id);
         }
 
-        /*public Encomienda Update(Encomienda newEncomienda){
-            var encomienda= encomienda.SingleOrDefault(b => b.id == newEncomienda.id);
+        public Encomienda Update(Encomienda newEncomienda){
+            var encomienda= encomiendas.SingleOrDefault(b => b.id == newEncomienda.id);
             if(encomienda != null){
-                encomienda.descripcion = newUsuario.descripcion;
-                encomienda.peso = newUsuario.peso;
-                encomienda.tipo = newUsuario.tipo;
-                encomienda.presentacion = newUsuario.presentacion;
+                encomienda.descripcion = newEncomienda.descripcion;
+                encomienda.peso = newEncomienda.peso;
+                encomienda.tipo = newEncomienda.tipo;
+                encomienda.presentacion = newEncomienda.presentacion;
             }
             return encomienda;
         }
 
-        public Usuario Create(Usuario newUsuario)
+        /*public Usuario Create(Usuario newUsuario)
         {
             if(usuarios.Count > 0){
                 newUsuario.id=usuarios.Max(r => r.id) +1; 
@@ -49,14 +49,14 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
             }
            usuarios.Add(newUsuario);
            return newUsuario;
-        }
-
-        public Usuario Delete(int id)
-        {
-            var usuario= usuarios.SingleOrDefault(b => b.id == id);
-            usuarios.Remove(usuario);
-            return usuario;
         }*/
+
+        public Encomienda Delete(int id)
+        {
+            var encomienda= encomiendas.SingleOrDefault(b => b.id == id);
+            encomiendas.Remove(encomienda);
+            return encomienda;
+        }
 
     }
 }

@@ -7,11 +7,11 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
 {
     public class RepositorioServicio
     {
-        List<Servicio> servicio;
+        List<Servicio> servicios;
  
     public RepositorioServicio()
         {
-            servicio= new List<Servicio>()
+            servicios= new List<Servicio>()
             {
                 new Servicio{id=1,origen=1,destino=2,fecha="2021-10-01",hora= "08:00:00",encomienda=1},
                 new Servicio{id=2,origen=1,destino=3,fecha="2021-10-02",hora= "09:00:00",encomienda=2},
@@ -21,25 +21,26 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
  
         public IEnumerable<Servicio> GetAll()
         {
-            return servicio;
+            return servicios;
         }
  
         public Servicio GetServicioWithId(int id){
-            return servicio.SingleOrDefault(b => b.id == id);
+            return servicios.SingleOrDefault(b => b.id == id);
         }
 
-        /*public Encomienda Update(Encomienda newEncomienda){
-            var encomienda= encomienda.SingleOrDefault(b => b.id == newEncomienda.id);
-            if(encomienda != null){
-                encomienda.descripcion = newUsuario.descripcion;
-                encomienda.peso = newUsuario.peso;
-                encomienda.tipo = newUsuario.tipo;
-                encomienda.presentacion = newUsuario.presentacion;
+        public Servicio Update(Servicio newServicio){
+            var servicio= servicios.SingleOrDefault(b => b.id == newServicio.id);
+            if(servicio != null){
+                servicio.origen = newServicio.origen;
+                servicio.destino = newServicio.destino;
+                servicio.fecha = newServicio.fecha;
+                servicio.hora = newServicio.hora;
+                servicio.encomienda = newServicio.encomienda;
             }
-            return encomienda;
+            return servicio;
         }
 
-        public Usuario Create(Usuario newUsuario)
+        /*public Usuario Create(Usuario newUsuario)
         {
             if(usuarios.Count > 0){
                 newUsuario.id=usuarios.Max(r => r.id) +1; 
@@ -49,14 +50,14 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
             }
            usuarios.Add(newUsuario);
            return newUsuario;
-        }
-
-        public Usuario Delete(int id)
-        {
-            var usuario= usuarios.SingleOrDefault(b => b.id == id);
-            usuarios.Remove(usuario);
-            return usuario;
         }*/
+
+        public Servicio Delete(int id)
+        {
+            var servicio= servicios.SingleOrDefault(b => b.id == id);
+            servicios.Remove(servicio);
+            return servicio;
+        }
 
     }
 }

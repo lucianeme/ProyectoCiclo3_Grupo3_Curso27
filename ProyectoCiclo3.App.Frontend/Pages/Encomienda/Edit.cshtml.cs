@@ -6,36 +6,39 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using ProyectoCiclo3.App.Persistencia.AppRepositorios;
 using ProyectoCiclo3.App.Dominio;
-
  
 namespace ProyectoCiclo3.App.Frontend.Pages
 {
-    public class ListEncomiendaModel : PageModel
+    public class EditEncomiendaModel : PageModel
     {
-
         private readonly RepositorioEncomienda repositorioEncomienda;
-        public IEnumerable<Encomienda> Encomienda {get;set;}
         [BindProperty]
-        public Encomienda Encomienda1 {get;set;}
+        public Encomienda Encomienda {get;set;}
  
-        public ListEncomiendaModel(RepositorioEncomienda repositorioEncomienda)
-        {
+        public EditEncomiendaModel(RepositorioEncomienda repositorioEncomienda)
+       {
             this.repositorioEncomienda=repositorioEncomienda;
-        }
-
-
-        public void OnGet()
+       }
+ 
+        public IActionResult OnGet(int encomiendaId)
         {
-            Encomienda = repositorioEncomienda.GetAll();
+                Encomienda=repositorioEncomienda.GetEncomiendaWithId(encomiendaId);
+                return Page();
+ 
         }
 
         public IActionResult OnPost()
         {
-            if(Encomienda1.id>0)
+            if(!ModelState.IsValid)
             {
-                Encomienda1 = repositorioEncomienda.Delete(Encomienda1.id);
+                return Page();
+            }
+            if(Encomienda.id>0)
+            {
+                Encomienda = repositorioEncomienda.Update(Encomienda);
             }
             return RedirectToPage("./List");
         }
+
     }
 }

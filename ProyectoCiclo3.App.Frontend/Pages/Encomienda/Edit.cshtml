@@ -1,0 +1,22 @@
+@page
+@model ProyectoCiclo3.App.Frontend.Pages.EditEncomiendaModel
+@{
+    var encomienda = Model.Encomienda;
+}
+
+<div class="text-center">
+    <form method="post">
+        <label for="id" class="form-label">Id:</label>
+        <input type="number" class="form-control" id="id" name="id" placeholder="id" asp-for="@encomienda.id">
+        <label for="Descripcion" class="form-label">Descripcion:</label>
+        <input type="text" class="form-control" id="descripcion" name="descripcion" placeholder="Descripcion" asp-for="@encomienda.descripcion">
+        <label for="Peso" class="form-label">Peso:</label>
+        <input type="text" class="form-control" id="peso" name="peso" placeholder="Peso" asp-for="@encomienda.peso">
+        <label for="Tipo" class="form-label">Tipo:</label>
+        <input type="text" class="form-control" id="tipo" name="tipo" placeholder="Tipo" asp-for="@encomienda.tipo">
+        <label for="Presentacion" class="form-label">Presentacion:</label>
+        <input type="text" class="form-control" id="presentacion" name="presentacion" placeholder="Presentacion" asp-for="@encomienda.presentacion">
+        <hr>
+        <button type="submit" class="btn btn-success">Enviar</button>
+    </form>
+</div>

@@ -28,7 +28,7 @@ namespace ProyectoCiclo3.App.Persistencia.AppRepositorios
             return usuarios.SingleOrDefault(b => b.id == id);
         }
 
-        /*public Usuario Update(Usuario newUsuario){
+        public Usuario Update(Usuario newUsuario){
             var usuario= usuarios.SingleOrDefault(b => b.id == newUsuario.id);
             if(usuario != null){
                 usuario.nombre = newUsuario.nombre;

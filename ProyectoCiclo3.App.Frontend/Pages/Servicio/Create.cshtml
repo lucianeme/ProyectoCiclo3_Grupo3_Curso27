@@ -2,47 +2,33 @@
 @model ProyectoCiclo3.App.Frontend.Pages.FormServicioModel
 @{
 }
-
  
 <div class="text-center">
-<!--<form action="">
-  <label for="nombre" class="form-label">Nombre:</label>
-  <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre">
-  <label for="edad" class="form-label">Edad:</label>
-  <input type="number" class="form-control" id="edad" name="edad" placeholder="Edad">
-  <label for="email" class="form-label">Email:</label>
-  <input type="email" class="form-control" id="email" name="email" placeholder="Email">
-  <hr>
-  <button type="submit" class="btn btn-success">Enviar</button>-->
   <form class="row g-3">
-    <div class="col-12">
-      <label for="inputId" class="form-label">ID</label>
-      <input type="text" class="form-control" id="inputId" placeholder="ID de Seguimiento">
-    </div>
     <div class="col-md-6">
       <label for="inputOrigen" class="form-label">Origen</label>
-      <input type="text" class="form-control" id="inputOrigen" placeholder="Kg.">
+      <input type="number" class="form-control" id="origen" name="origen" placeholder="Origen" >
     </div>
     <div class="col-md-6">
       <label for="inputDestino" class="form-label">Destino</label>
-      <input type="text" class="form-control" id="inputDestino">
+      <input type="number" class="form-control" id="destino" name="destino" placeholder="Destino" >
     </div>
      <div class="col-md-6">
       <label for="inputFecha" class="form-label">Fecha</label>
-      <input type="text" class="form-control" id="inputFecha" placeholder="Kg.">
+      <input type="date" class="form-control" id="fecha" name="fecha" placeholder="Fecha" >
     </div>
     <div class="col-md-6">
       <label for="inputHora" class="form-label">Hora</label>
-      <input type="text" class="form-control" id="inputHora">
+      <input type="time" class="form-control" id="hora" name="hora" placeholder="Hora" >
     </div>
     <div class="col-md-6">
       <label for="inputEncomienda" class="form-label">Encomienda</label>
-      <input type="text" class="form-control" id="inputEncomienda">
+      <input type="number" class="form-control" id="encomienda" name="encomienda" placeholder="Encomienda" >
     </div>
-    <hr>
+    
     <div class="col-12">
-      <button type="submit" class="btn btn-primary">Enviar</button>
+      <hr>
+      <button type="submit" class="btn btn-success">Enviar</button>
     </div>
   </form>
-@* </form> *@
 </div>
