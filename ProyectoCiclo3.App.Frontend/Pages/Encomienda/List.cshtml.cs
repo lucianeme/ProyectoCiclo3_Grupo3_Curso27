@@ -33,7 +33,8 @@ namespace ProyectoCiclo3.App.Frontend.Pages
         {
             if(Encomienda1.id>0)
             {
-                Encomienda1 = repositorioEncomienda.Delete(Encomienda1.id);
+                //Encomienda1 = repositorioEncomienda.Delete(Encomienda1.id);
+                repositorioEncomienda.Delete(Encomienda1.id);
             }
             return RedirectToPage("./List");
         }

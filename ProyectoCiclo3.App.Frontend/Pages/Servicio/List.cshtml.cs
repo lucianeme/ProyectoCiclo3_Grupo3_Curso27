@@ -30,7 +30,7 @@ namespace ProyectoCiclo3.App.Frontend.Pages
         {
             if(Servicio1.id>0)
             {
-                Servicio1 = repositorioServicio.Delete(Servicio1.id);
+                repositorioServicio.Delete(Servicio1.id);
             }
             return RedirectToPage("./List");
         }
