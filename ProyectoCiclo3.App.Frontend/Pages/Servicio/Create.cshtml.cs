@@ -11,7 +11,6 @@ namespace ProyectoCiclo3.App.Frontend.Pages
 {
     public class FormServicioModel : PageModel
     {
-
         private readonly RepositorioServicio repositorioServicio;
 
         private readonly RepositorioUsuario repositorioUsuario;
@@ -38,13 +37,13 @@ namespace ProyectoCiclo3.App.Frontend.Pages
             Encomiendas=repositorioEncomienda.GetAll();
         }
 
-        public IActionResult OnPost()
+        public IActionResult OnPost(int origen, int destino, string fecha, string hora, int encomienda)
         {
             if(!ModelState.IsValid)
             {
                 return Page();
             }            
-            Servicio = repositorioServicio.Create(Servicio);            
+            Servicio = repositorioServicio.Create(origen, destino, fecha, hora, encomienda);            
             return RedirectToPage("./List");
         }
     }
