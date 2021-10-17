@@ -31,7 +31,7 @@
   
   <label for="encomienda" class="form-label">Encomienda:</label>
   <select name="encomienda" class="form-control">
-    <option value=""></option>
+    @* <option value=""></option> *@
     @foreach (var encomienda in Model.Encomiendas)
   {
     <option value="@encomienda.id">@encomienda.descripcion</option>

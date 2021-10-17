@@ -7,17 +7,62 @@
 <div class="text-center">
     <form method="post">
         <label for="id" class="form-label">Id:</label>
-        <input type="number" class="form-control" id="id" name="id" placeholder="id" asp-for="@servicio.id">
+        <input type="number" class="form-control" id="id" placeholder="id" name="id" value="@servicio.id">
         <label for="Origen" class="form-label">Origen:</label>
-        <input type="text" class="form-control" id="origen" name="origen" placeholder="Origen" asp-for="@servicio.origen">
+        @* <input type="text" class="form-control" id="origen" name="origen" placeholder="Origen" asp-for="@servicio.origen"> *@
+        
+        <select name="origen" class="form-control">
+            <option value="">-</option>
+            @foreach (var usuario in Model.Usuarios)
+        {
+            @if(@servicio.origen.id == @usuario.id){ 
+            <option value="@usuario.id" selected >@usuario.nombre @usuario.apellidos - @usuario.ciudad</option>
+            }
+            else{
+             <option value="@usuario.id" >@usuario.nombre @usuario.apellidos - @usuario.ciudad</option> 
+            }
+            
+        }
+        </select>
+
+        
         <label for="Destino" class="form-label">Destino:</label>
-        <input type="text" class="form-control" id="destino" name="destino" placeholder="Destino" asp-for="@servicio.destino">
+        @* <input type="text" class="form-control" id="destino" name="destino" placeholder="Destino" asp-for="@servicio.destino"> *@
+        
+        <select name="destino" class="form-control">
+            @foreach (var usuario in Model.Usuarios)
+        {
+            @if(@servicio.destino.id == @usuario.id){ 
+            <option value="@usuario.id" selected >@usuario.nombre @usuario.apellidos - @usuario.ciudad</option>
+            }
+            else{
+             <option value="@usuario.id" >@usuario.nombre @usuario.apellidos - @usuario.ciudad</option> 
+            }
+        }
+        </select>
+
+
         <label for="Fecha" class="form-label">Tipo:</label>
-        <input type="date" class="form-control" id="fecha" name="fecha" placeholder="Fecha" asp-for="@servicio.fecha">
+        <input type="date" class="form-control" id="fecha" placeholder="Fecha" name="fecha" value="@servicio.fecha">
+        
         <label for="Hora" class="form-label">Hora:</label>
-        <input type="time" class="form-control" id="hora" name="hora" placeholder="Hora" asp-for="@servicio.hora">
+        <input type="time" class="form-control" id="hora" placeholder="Hora" name="hora" value="@servicio.hora">
+        
         <label for="Encomienda" class="form-label">Encomienda:</label>
-        <input type="text" class="form-control" id="encomienda" name="encomienda" placeholder="Encomienda" asp-for="@servicio.encomienda">
+        @* <input type="text" class="form-control" id="encomienda" name="encomienda" placeholder="Encomienda" asp-for="@servicio.encomienda"> *@
+        
+        <select name="encomienda" class="form-control">
+            @foreach (var encomienda in Model.Encomiendas)
+        {
+            @if(@servicio.encomienda.id == @encomienda.id){ 
+            <option value="@encomienda.id" selected >@encomienda.descripcion</option>
+            }
+            else{
+             <option value="@encomienda.id" >@encomienda.descripcion</option> 
+            }
+        }
+        </select>
+        
         <hr>
         <button type="submit" class="btn btn-success">Enviar</button>
     </form>
