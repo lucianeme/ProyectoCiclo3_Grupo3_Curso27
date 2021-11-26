@@ -9,37 +9,54 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-primary border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">Amazon</a>
+                <a class="navbar-brand" asp-area="" asp-page="/Index">Amazon Manage</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    @Html.Partial("_LoginPartial")
+                    
+                    @using Microsoft.AspNetCore.Identity
+                    @inject SignInManager<IdentityUser> SignInManager
+                    @if (SignInManager.IsSignedIn(User))
+                    {
+                    
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Inicio</a>
+                        <li class="nav-item d-md-inline-block active">
+                            <a class="nav-link" asp-area="" asp-page="/Index">Inicio</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Usuario/Create">Crear Usuario</a>
+                        <li class="nav-item dropdown d-md-inline-block">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Usuarios</a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" asp-area="" asp-page="/Usuario/Create">Crear nuevo</a>
+                            <a class="dropdown-item" asp-area="" asp-page="/Usuario/List">Ver listado</a>
+                            </div>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Usuario/List">Listar Usuarios</a>
+
+                        <li class="nav-item dropdown d-md-inline-block">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Encomiendas</a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" asp-area="" asp-page="/Encomienda/Create">Crear nueva</a>
+                            <a class="dropdown-item" asp-area="" asp-page="/Encomienda/List">Ver listado</a>
+                            </div>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Encomienda/Create">Crear Encomienda</a>
+
+                        <li class="nav-item dropdown d-md-inline-block">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Servicios</a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" asp-area="" asp-page="/Servicio/Create">Crear nuevo</a>
+                            <a class="dropdown-item" asp-area="" asp-page="/Servicio/List">Ver listado</a>
+                            </div>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Encomienda/List">Listar Encomiendas</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Servicio/Create">Crear Servicio</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Servicio/List">Listar Servicios</a>
-                        </li>
+
                     </ul>
+                    }
                 </div>
             </div>
         </nav>
@@ -50,11 +67,9 @@
         </main>
     </div>
 
-
-
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2021 - ProyectoCiclo3.App.Frontend - <a asp-area="" asp-page="/Privacy">Privacy</a>
+            &copy; 2021 - Amazon Manage - <a asp-area="" asp-page="/Privacy">Privacy</a>
         </div>
     </footer>
 

@@ -9,7 +9,7 @@ namespace ProyectoCiclo3.App.Persistencia
         public DbSet<Usuario> Usuarios { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){
             if(!optionsBuilder.IsConfigured){
-                optionsBuilder.UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = ProyectoCiclo3");
+                optionsBuilder.UseSqlServer("Data Source = misiontic2021equipo3grupo27.database.windows.net; Initial Catalog = ProyectoCiclo3Amazon; User ID=admin_equipo3-DS27;Password=xxxxxxxx");
             }
         } 
     }

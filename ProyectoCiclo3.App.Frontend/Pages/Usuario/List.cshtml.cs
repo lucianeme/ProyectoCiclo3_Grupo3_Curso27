@@ -31,7 +31,8 @@ namespace ProyectoCiclo3.App.Frontend.Pages
         {
             if(Usuario1.id>0)
             {
-                Usuario1 = repositorioUsuario.Delete(Usuario1.id);
+                //Usuario1 = repositorioUsuario.Delete(Usuario1.id);     -- Quitar Asignacion de Variable --
+                repositorioUsuario.Delete(Usuario1.id);
             }
             return RedirectToPage("./List");
         }

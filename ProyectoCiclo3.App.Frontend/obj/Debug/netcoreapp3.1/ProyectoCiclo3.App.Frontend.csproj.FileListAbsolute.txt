@@ -230,3 +230,175 @@ C:\platzi\ProyectoGrupo\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Fronten
 C:\platzi\ProyectoGrupo\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Usuario\Edit.cshtml.g.cs
 C:\platzi\ProyectoGrupo\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Encomienda\Edit.cshtml.g.cs
 C:\platzi\ProyectoGrupo\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\Edit.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.exe
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.deps.json
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.runtimeconfig.json
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.pdb
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.Views.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.Views.pdb
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Dominio.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Persistencia.dll
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Persistencia.pdb
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Dominio.pdb
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Encomienda\Create.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Encomienda\Details.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Encomienda\Edit.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Encomienda\List.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\Create.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\Details.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\Edit.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\List.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Usuario\Create.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Usuario\Details.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Usuario\Edit.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Usuario\List.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.Views.pdb
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.csproj.CopyComplete
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoCiclo3.App.Frontend.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoCiclo3.App.Frontend.StaticWebAssets.xml
+C:\Users\Asus\Desktop\ProyectoTeam\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.Frontend\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.genruntimeconfig.cache
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.exe
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.deps.json
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.runtimeconfig.json
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.runtimeconfig.dev.json
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.pdb
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.Views.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.Views.pdb
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Dominio.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Persistencia.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Persistencia.pdb
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\bin\Debug\netcoreapp3.1\ProyectoCiclo3.App.Dominio.pdb
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.csprojAssemblyReference.cache
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.RazorAssemblyInfo.cache
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.RazorAssemblyInfo.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.AssemblyInfoInputs.cache
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.AssemblyInfo.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.TagHelpers.input.cache
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.TagHelpers.output.cache
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.RazorCoreGenerate.cache
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Encomienda\Create.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Encomienda\Details.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Encomienda\Edit.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Encomienda\List.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\Create.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\Details.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\Edit.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Servicio\List.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Usuario\Create.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Usuario\Details.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Usuario\Edit.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\Usuario\List.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.RazorTargetAssemblyInfo.cache
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.RazorTargetAssemblyInfo.cs
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.Views.pdb
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.csproj.CopyComplete
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoCiclo3.App.Frontend.StaticWebAssets.Manifest.cache
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\staticwebassets\ProyectoCiclo3.App.Frontend.StaticWebAssets.xml
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.dll
+D:\Proyecto Equipo 3-Desarrollo Software\ProyectoCiclo3_Grupo3_Curso27\ProyectoCiclo3.App.FrontEnd\obj\Debug\netcoreapp3.1\ProyectoCiclo3.App.Frontend.pdb

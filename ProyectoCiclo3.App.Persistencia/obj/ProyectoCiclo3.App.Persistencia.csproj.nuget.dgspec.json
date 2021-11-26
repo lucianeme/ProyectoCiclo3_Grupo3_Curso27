@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\platzi\\ProyectoGrupo\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {}
+    "D:\\Proyecto Equipo 3-Desarrollo Software\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\platzi\\ProyectoGrupo\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+    "D:\\Proyecto Equipo 3-Desarrollo Software\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\platzi\\ProyectoGrupo\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "projectUniqueName": "D:\\Proyecto Equipo 3-Desarrollo Software\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
         "projectName": "ProyectoCiclo3.App.Dominio",
-        "projectPath": "C:\\platzi\\ProyectoGrupo\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\AnaLucía\\.nuget\\packages\\",
-        "outputPath": "C:\\platzi\\ProyectoGrupo\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\obj\\",
+        "projectPath": "D:\\Proyecto Equipo 3-Desarrollo Software\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\maris\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyecto Equipo 3-Desarrollo Software\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AnaLucía\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\maris\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -53,21 +53,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.118\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\platzi\\ProyectoGrupo\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
+    "D:\\Proyecto Equipo 3-Desarrollo Software\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\platzi\\ProyectoGrupo\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+        "projectUniqueName": "D:\\Proyecto Equipo 3-Desarrollo Software\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
         "projectName": "ProyectoCiclo3.App.Persistencia",
-        "projectPath": "C:\\platzi\\ProyectoGrupo\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\AnaLucía\\.nuget\\packages\\",
-        "outputPath": "C:\\platzi\\ProyectoGrupo\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Persistencia\\obj\\",
+        "projectPath": "D:\\Proyecto Equipo 3-Desarrollo Software\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Persistencia\\ProyectoCiclo3.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\maris\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyecto Equipo 3-Desarrollo Software\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AnaLucía\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\maris\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -78,8 +78,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\platzi\\ProyectoGrupo\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
-                "projectPath": "C:\\platzi\\ProyectoGrupo\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
+              "D:\\Proyecto Equipo 3-Desarrollo Software\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj": {
+                "projectPath": "D:\\Proyecto Equipo 3-Desarrollo Software\\ProyectoCiclo3_Grupo3_Curso27\\ProyectoCiclo3.App.Dominio\\ProyectoCiclo3.App.Dominio.csproj"
               }
             }
           }
@@ -129,7 +129,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.118\\RuntimeIdentifierGraph.json"
         }
       }
     }
